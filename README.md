@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @5kong2
-- 👀 I’m interested in System and Cloud, DevOps.
-- 🌱 I’m currently learning Terraform
-- <!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+- 
+- 📫 How to reach me ... ---> ----- > > > > >> > > it . . i s. . .  S . e . C . .r E . .t 😉
 
 <!---
 5kong2/5kong2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
